@@ -15,7 +15,7 @@ function exibirTextoNaTela(tag, texto){
 
 function exibirMensagemInicial(){
 exibirTextoNaTela('h1', 'Jogo do número secreto');
-exibirTextoNaTela('p', 'Olá! Escolha um número entre 1 e 1000');
+exibirTextoNaTela('p', 'Escolha um número entre 1 e 1000');
 }
 
 //criando uma função para o botão "Chutar"
